@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+joblib
+fastapi[all]
+uvicorn[standard]
+SQLAlchemy==1.4.35
+psycopg2-binary
+python-dotenv
+passlib
+mysql-connector-python
+pymysql
+cryptography
+passlib
+bcrypt
